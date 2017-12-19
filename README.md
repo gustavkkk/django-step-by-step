@@ -17,4 +17,7 @@
   ### Start a Project
         django_project$ python manage.py runserver
   ### Setting
-       django_project\setting.py
+       django_project\django_project\setting.py
+       INSTALLED_APPS,
+       TIME_ZONE,
+       
