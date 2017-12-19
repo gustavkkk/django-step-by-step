@@ -5,7 +5,7 @@
   
       $ pip install django
       
-  ### [Create a Project](https://overiq.com/django/1.10/creating-django-project/)
+  ###　[Create a Project](https://overiq.com/django/1.10/creating-django-project/)
   
       $ django-admin startproject django_project
 
