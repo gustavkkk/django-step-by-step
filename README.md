@@ -3,7 +3,7 @@
 # first day
   ### Installation      
       $ pip install django
-  ### [Create a Project](https://overiq.com/django/1.10/creating-django-project/)
+  ### Create a Project(https://overiq.com/django/1.10/creating-django-project/)
   
       $ django-admin startproject django_project
 
@@ -29,7 +29,7 @@
                         ] 
       TIME_ZONE = 'UTC',
       
-  ### [Add Admin Interface](https://github.com/rosarior/awesome-django#admin-interface):[1-djamin](https://github.com/hersonls/djamin/)
+  ### Add Admin Interface(https://github.com/rosarior/awesome-django#admin-interface):[1-djamin](https://github.com/hersonls/djamin/)
       
       
       pip install -e git://github.com/hersonls/djamin.git#egg=djamin
