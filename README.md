@@ -18,6 +18,8 @@
    
   ### Start a Project
       django_project$ python manage.py runserver
+  ### Migrate
+      $ python manage.py migrate
   ### Setting
       django_project\django_project\setting.py
 
@@ -45,3 +47,7 @@
                         'django.contrib.staticfiles',
                         ] 
        http://127.0.0.1:8000/admin/ 
+       
+  ### Create a django App
+    
+      python manage.py startapp blog
