@@ -48,7 +48,7 @@
                         ] 
        http://127.0.0.1:8000/admin/ 
        
-  ### Create a django App
+  ### Create a Django App
     
       python manage.py startapp blog
       
@@ -62,3 +62,9 @@
                         'django.contrib.staticfiles',
                         'blog',
                         ] 
+                        
+  ### [Django Admin App](https://overiq.com/django/1.10/django-admin-app/)
+  
+   * Creating a superuser
+         
+    $python manage.py createsuperuser
