@@ -35,7 +35,7 @@
       
   ### [Add an Admin-Interface](https://github.com/rosarior/awesome-django#admin-interface):[1-djamin](https://github.com/hersonls/djamin/)
       
-      pip install -e git://github.com/hersonls/djamin.git#egg=djamin
+      $ pip install -e git://github.com/hersonls/djamin.git#egg=djamin
       
       INSTALLED_APPS = [
                         'djamin',
@@ -50,7 +50,7 @@
        
   ### Create a Django App
     
-      python manage.py startapp blog
+      $ python manage.py startapp blog
       
       INSTALLED_APPS = [
                         'djamin',
@@ -67,4 +67,4 @@
   
    * Creating a superuser
          
-    $python manage.py createsuperuser
+    $ python manage.py createsuperuser
